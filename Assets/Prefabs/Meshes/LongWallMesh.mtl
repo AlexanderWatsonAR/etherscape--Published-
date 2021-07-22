@@ -1,0 +1,5 @@
+newmtl Wood
+map_Kd light wood 3.png
+Kd 1 1 1
+d 1
+

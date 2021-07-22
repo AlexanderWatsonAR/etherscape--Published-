@@ -1,0 +1,67 @@
+- refine enemy. stop clipping into ground.
+- intergrate portal door 1, short moving platform 1 into game, box throw 1.
+- sounds for elevator.
+- fix next tile trigger for fidget spinner 1
+- cannon appear sound.
+- 3x3 platform, turn into descending steps.
+- 3x3 platform, turn into crinkle crankle steps. ie serpentine.
+- platform with hole sound.
+- CHECK STARTSCENE landscape mode & fov update.
+- 6x6 blocks come into a tower.
+- 6x6 blocks conveyer.
+- 
+
+
+
+sounds to get
+trap door
+rotating tiles
+elevator
+hum sound for munchie and door
+tennis racket
+munchie. 
+reverse wall
+up ramp
+
+
+----------
+
+turn down volume on munchie smash.
+disable rate window on start
+check if buttons are disabled whilst rate window is active.
+
+ ____________|  |
+ |   ________   |
+ |  |        |  |
+ |  |        |  |
+ |  |________|  |
+     ___________|
+ |  |
+ |  |
+ |  |
+ |  |
+ |  |
+ |  |
+
+
+on death screen say where last checkpoint is.
+
+
+
+moving platform 1 chanage camera to see platform on left when on the moving platform
+
+
+
+remember orientation.
+
+
+look at time body script to stop player falling through planks. £
+
+general performance improvements
+
+look at store presence & publishing game.
+
+
+
+
+

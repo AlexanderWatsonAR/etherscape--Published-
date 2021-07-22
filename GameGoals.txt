@@ -1,0 +1,32 @@
+Todo:
+
+Primary
+
+Secondary
+- Sounds
+	- Tennis ball bounce on wood & on racket.
+	- freeze sound.
+	- Enemy assembling. - jenga tower falling in reverse?
+	- Enemy kick.
+	- environment sound effects. wind? ocean? music?
+	- speed sound
+	
+- Adjust prices in shop.
+
+- add a play tip to the home screen.
+
+- adjust tile triggers for better gameplay.
+
+- seesaw trap, stop it flickering
+
+- look at improving game performance.
+
+- message box that asks the user for feedback / rating.
+
+Tertiary
+- Refactor code. Remove excess files.
+- Look at putting in on iphone.
+- Purchasing Unity Pro so I can use a custom splashscreen.
+- Media campaign. Social Media profile.
+
+Bug Fixes

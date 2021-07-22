@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22f39ac268a5c8941afb4ba8aef0944c, type: 3}
+  m_Name: DefaultGameGrowthConfiguration
+  m_EditorClassIdentifier: 
+  m_ProjectSummary:
+    projectId: aaefd9e6-b6b9-4d8e-af91-3ce224d3b32e
+    integrationLevel: basic
+    organizationId: 5f1f032147ce261d6eacde6d
+    coreOrganizationId: 2360123
+    providers:
+      adjust:
+        appToken:
+          androidValue: 62yzm5uy5jsw
+          iOSValue: 6a9ygru7lk74
+        purchaseToken: purchase
+      ddna:
+        devKey:
+          value: aaefd9e6-b6b9-4d8e-af91-3ce224d3b32e_Dev
+        liveKey:
+          value: aaefd9e6-b6b9-4d8e-af91-3ce224d3b32e_Live
+        collect: collect18636ggwrn.deltadna.net/collect/api
+        engage: engage18636ggwrn.deltadna.net
+      admob:
+        appId:
+          androidValue: 
+          iOSValue: 
+      facebook:
+        appId: 
+      mopub:
+        m_Keys: []
+        m_Values: []
+      unityMonetization:
+        m_Keys: []
+        m_Values: []
